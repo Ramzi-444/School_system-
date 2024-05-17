@@ -45,7 +45,9 @@ The admin page is used to modify all tables such as Students, Teachers, Departme
 
 Visit the link and test the project which is already deployed https://school-system-nm7d.onrender.com  
 
-The login page is common for admin, student and teacher:
+Sometimes it requires 2 minute to open it online)  
+
+The login page is common for admin, student and teacher:  
 Example usernames:  
 student- 'Muzaffar' with password 'project123'  
 teacher- 'Nurlan' with password 'project123'  
