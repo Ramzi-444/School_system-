@@ -8,7 +8,7 @@ pip install django
 ```
 
 ## Usage
-
+Connect Locally to database (Postgresql)     
 Go to the School_system folder and run
 
 ```bash
@@ -41,14 +41,14 @@ New students and teachers can be added through the admin page. A new user needs 
 
 The admin page is used to modify all tables such as Students, Teachers, Departments, Courses, Classes etc.
 
-##Deployed 
+## Deployed 
 
-Visit the link and test the project which is already deployed https://school-system-nm7d.onrender.com 
+Visit the link and test the project which is already deployed https://school-system-nm7d.onrender.com  
 
 The login page is common for admin, student and teacher:
 Example usernames:  
 student- 'Muzaffar' with password 'project123'  
-teacher- 'Nurlan' with password 'project123' 
+teacher- 'Nurlan' with password 'project123'  
 admin- 'uca' with password '123' 
 
 
